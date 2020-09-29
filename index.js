@@ -106,7 +106,9 @@
      */
     function printData(){
     console.log(`Number of bedrooms: ${numBed} 
-Number of Bathrooms: ${numBath}  Size of garage: ${numCar}car  Total Price: ${totPrice}`);
+    Number of Bathrooms: ${numBath}  
+    Size of garage: ${numCar}car  
+    Total Price: ${totPrice}`);
 }
 
     // ----Above this line is section 4, mutator & worker/utility methods----
